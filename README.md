@@ -9,6 +9,7 @@ The "Covid-19 Micro Analysis" project provides a focused analysis of a small dat
 The project begins by loading the dataset using the Pandas library, revealing its structure and initial records. The dataset includes columns such as Date, State, Region, Confirmed cases, Deaths, and Recovered cases. Exploratory data analysis techniques are employed to understand the nature of the data, including the count of non-null values and the presence of missing values in each column.
 
 ## Null Values and Heatmap
+![image](https://github.com/no37no37/covid19_micro_analysis/assets/132648428/8f8750f9-f391-4440-9359-fb8cff6af2ac)
 
 A detailed examination of null values is conducted, revealing that the "State" column has a significant number of missing values (181). A heatmap visualization is employed to provide a clear representation of the distribution of null values in the dataset.
 
